@@ -1,4 +1,5 @@
 # Getting Started
+![image](https://github.com/user-attachments/assets/1c26fac5-3990-4993-a2f4-c810d06e9a45)
 
 # Code Samples
 ```ts
